@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Scatter_Gather_Sample": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7103"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 34541,
+      "useSSL": false
+    }
+  }
+}
